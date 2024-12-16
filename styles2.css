@@ -1,0 +1,12 @@
+@media (width > 800px) {
+    p.toto{
+        color: black;
+    }
+}
+
+
+@media  (600px <= width <= 800px){
+    p.toto{
+        color: blue;
+    }
+}
