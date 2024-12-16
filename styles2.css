@@ -8,5 +8,6 @@
 @media  (600px <= width <= 800px){
     p.toto{
         color: blue;
+        background-color: #975d24;
     }
 }
